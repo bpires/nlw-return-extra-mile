@@ -44,6 +44,7 @@ function showNavOnScroll() {
     document.getElementById("logo-img").src="./assets/Logo-Jobi-2.png";
   } else {
     navigation.classList.remove('scroll')
+    document.getElementById("logo-img").src="./assets/Logo-Jobi-1.png";
   }
 }
 
