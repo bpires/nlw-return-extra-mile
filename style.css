@@ -334,8 +334,8 @@ body.menu-expanded button path {
 #home img {
   width: 26.4rem;
   display: block;
-  margin-inline: auto;
   object-position: 0 2rem;
+  margin: 8rem auto 8rem;
 }
 
 #home .stats {
