@@ -41,6 +41,7 @@ function activateMenuAtCurrentSection(section) {
 function showNavOnScroll() {
   if (scrollY > 0) {
     navigation.classList.add('scroll')
+    document.getElementById("logo-img").src="./assets/Logo-Jobi-2.png";
   } else {
     navigation.classList.remove('scroll')
   }

@@ -6,15 +6,18 @@
 }
 
 :root {
-  --hue: 199;
-  --primary-color: hsl(var(--hue), 100%, 26%);
+  --hue: 200;
+  --primary-color: #011C26;
+  /* hsl(var(--hue), 100%, 26%); */
   --headline: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
 
-  --brand-beige: hsl(39, 100%, 97%);
-  --brand-light: hsl(calc(var(--hue) - 22), 23%, 89%);
+  --brand-beige: hsl(225, 53%, 94%);
+  --brand-light: hsla(217, 70%, 81%, 0.5);
+  /* hsl(calc(var(--hue) - 22), 23%, 89%); */
   --brand-light-2: hsl(calc(var(--hue) + 10), 14%, 97%);
-  --brand-dark: hsl(var(--hue), 100%, 14%);
+  --brand-dark: #F24405 ;
+  /* hsl(var(--hue), 100%, 14%); */
 
   --bg-light: hsl(180, 14%, 97%);
 
@@ -446,14 +449,12 @@ footer .logo {
   margin-bottom: 2.4rem;
 }
 
-footer .logo svg {
-  width: 23.6rem;
-  height: 3.1rem;
+footer .logo img {
+  width: 22rem;
+  margin-left: -1.5rem;
+  margin-bottom: -2rem;
 }
 
-footer .logo path {
-  fill: white;
-}
 
 footer p {
   color: var(--brand-beige);
