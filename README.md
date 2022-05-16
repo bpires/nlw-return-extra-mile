@@ -11,7 +11,7 @@
 
 <br>
 
-<p align="center"><img height="100em" src="https://github.com/bpires/nlw-return-extra-mile/blob/main/assets/Logo-Jobi-1.png?raw=true"></p>
+<a href="bpires.github.io/nlw-return-extra-mile/" target="_blank"><p align="center"><img height="100em" src="https://github.com/bpires/nlw-return-extra-mile/blob/main/assets/Logo-Jobi-1.png?raw=true"></p></a>
 
 <h3 align="center">
     Personal adaptation of the project developed <br> on the Origin path of NLW 8th edition
@@ -26,7 +26,7 @@
 </div>
 <br>
 <p align="center">
-<img src="./assets/print.png"/>
+<a href="bpires.github.io/nlw-return-extra-mile/" target="_blank"><img src="./assets/print.png"/></a>
 
 
 
