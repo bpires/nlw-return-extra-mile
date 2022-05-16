@@ -6,7 +6,7 @@
 }
 
 :root {
-  --hue: 190;
+  --hue: 199;
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
@@ -135,6 +135,12 @@ section .content p {
   gap: 3.2rem;
 }
 
+.fa-social {
+  color: white;
+}
+
+
+
 /* custom colors */
 #services .card circle {
   fill: var(--brand-light);
@@ -180,6 +186,10 @@ nav .wrapper {
 
 nav.scroll {
   background: var(--primary-color);
+}
+
+.logo img {
+  width: 13.3rem;
 }
 
 nav button {
