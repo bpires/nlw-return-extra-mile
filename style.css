@@ -229,7 +229,7 @@ body.menu-expanded .close-menu {
 }
 
 .menu {
-  transform: translateY(100%);
+  transform: translateY(-100%);
 }
 
 body.menu-expanded .menu {
